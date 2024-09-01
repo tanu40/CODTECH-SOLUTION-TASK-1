@@ -62,6 +62,8 @@ To run the To-Do List website, simply open the `index.html` file in your preferr
 Objective:
 The primary objective of the To-Do List website is to provide users with a simple, intuitive, and efficient platform to manage their daily tasks and activities. The website aims to help users organize their tasks, set priorities, and track progress, ultimately improving productivity and time management.
 
+This is the screenshot of the project.
+
 ![to-do ss](https://github.com/user-attachments/assets/57b4bb88-dea4-4305-9e20-59061f2c6e49)
 
 
