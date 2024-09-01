@@ -1,10 +1,10 @@
 
-Name: Tanushka Kumbhar
-Company: CODTECH IT SOLUTIONS
-ID: CT08DS6675
-Domain: Web Development
-Duration: August 5th to September 5th 2024
-Mentor: Muzammil Ahmed
+Name: Tanushka Kumbhar. <br>
+Company: CODTECH IT SOLUTIONS. <br>
+ID: CT08DS6675. <br>
+Domain: Web Development. <br>
+Duration: August 5th to September 5th 2024. <br>
+Mentor: Muzammil Ahmed. <br>
 
 
 To-Do List Website:
